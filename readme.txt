@@ -5,3 +5,4 @@ Git is free software.
 GIT is a good new
 Git tracks changs of files.
 Creating a new branch is quick and simple.
+add merge
